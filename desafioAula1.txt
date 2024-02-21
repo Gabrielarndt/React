@@ -1,0 +1,12 @@
+criar um componente de cadastro
+-> Nome
+-> Email
+-> Fone
+-> Botão salvar
+-> Botão Cancelar
+
+Adicionar bootstrap
+
+adicionar input para digitar sobrenome e idade da pessoa. Mostrar em outro component o nome completo idade e se é menor ou maior de idade
+
+Criar um componente pra mostrar o resultado. Os dados deve serem passados via props.
